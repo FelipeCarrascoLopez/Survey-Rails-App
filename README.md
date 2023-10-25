@@ -25,7 +25,7 @@ In order to have a copy of this web application, follow the next instructions:
 
 8. And run: `docker compose run web rails tailwindcss:build`
 
-9. Enjoy!
+9. docker-compose run web rake db:setup
 
 ## Images.
 
